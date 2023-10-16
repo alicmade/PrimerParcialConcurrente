@@ -1,0 +1,92 @@
+Component 1 produced
+Component 1 assembled by Assembly Line
+Component 2 produced
+Component 2 assembled by Assembly Line
+Component 3 produced
+Component 3 assembled by Assembly Line
+Component 4 produced
+Component 4 assembled by Assembly Line
+Component 5 produced
+Component 5 assembled by Assembly Line
+Component 6 produced
+Component 6 assembled by Assembly Line
+Component 7 produced
+Component 7 assembled by Assembly Line
+Component 8 produced
+Component 8 assembled by Assembly Line
+Component 9 produced
+Component 9 assembled by Assembly Line
+Component 10 produced
+Component 10 assembled by Assembly Line
+Component 11 produced
+Component 11 assembled by Assembly Line
+Component 12 produced
+Component 12 assembled by Assembly Line
+Component 13 produced
+Component 13 assembled by Assembly Line
+Component 14 produced
+Component 14 assembled by Assembly Line
+Component 15 produced
+Component 15 assembled by Assembly Line
+Component 16 produced
+Component 16 assembled by Assembly Line
+Component 17 produced
+Component 17 assembled by Assembly Line
+Component 18 produced
+Component 18 assembled by Assembly Line
+Component 19 produced
+Component 19 assembled by Assembly Line
+Component 20 produced
+Component 20 assembled by Assembly Line
+Component 21 produced
+Component 21 assembled by Assembly Line
+Component 22 produced
+Component 22 assembled by Assembly Line
+Component 23 produced
+Component 23 assembled by Assembly Line
+Component 24 produced
+Component 24 assembled by Assembly Line
+Component 25 produced
+Component 25 assembled by Assembly Line
+Component 26 produced
+Component 26 assembled by Assembly Line
+Component 27 produced
+Component 27 assembled by Assembly Line
+Component 28 produced
+Component 28 assembled by Assembly Line
+Component 29 produced
+Component 29 assembled by Assembly Line
+Component 30 produced
+Component 30 assembled by Assembly Line
+Component 31 produced
+Component 31 assembled by Assembly Line
+Component 32 produced
+Component 32 assembled by Assembly Line
+Component 33 produced
+Component 33 assembled by Assembly Line
+Component 34 produced
+Component 34 assembled by Assembly Line
+Component 35 produced
+Component 35 assembled by Assembly Line
+Component 36 produced
+Component 36 assembled by Assembly Line
+Component 37 produced
+Component 37 assembled by Assembly Line
+Component 38 produced
+Component 38 assembled by Assembly Line
+Component 39 produced
+Component 39 assembled by Assembly Line
+Component 40 produced
+Component 40 assembled by Assembly Line
+Component 41 produced
+Component 41 assembled by Assembly Line
+Component 42 produced
+Component 42 assembled by Assembly Line
+Component 43 produced
+Component 43 assembled by Assembly Line
+Component 44 produced
+Component 44 assembled by Assembly Line
+Component 45 produced
+Component 45 assembled by Assembly Line
+Component 46 produced
+Component 46 assembled by Assembly Line
